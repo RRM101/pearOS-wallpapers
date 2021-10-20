@@ -1,5 +1,5 @@
 # pearOS Wallpapers
 
-![](./banner.png)
+![](./banner/banner.png)
 
 Wallpapers made for pearOS by me :)
